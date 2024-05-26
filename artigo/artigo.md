@@ -246,6 +246,13 @@ Derrotando grupos inteiros rapidamente: Combine -r e -f para limpar cavernas int
 **Conclusão**
 Com o comando rm, você pode derrotar inimigos digitais e limpar seu caminho, mantendo seu reino sempre organizado e seguro. Experimente os exemplos acima para dominar a arte de superar e derrotar inimigos no seu sistema operacional, garantindo que seu mundo digital esteja sempre livre de ameaças!
 
+***cheats e glits***
+Claro que códigos especiais facilitam a jornada. Abaixo, listarei três deles que irão acelerar sua jornada:
+
+-   **Tab:** completa o nome do diretório ou arquivo.
+-   **Seta para cima:** recupera históricos de comandos já utilizados naquela sessão.
+-  **clear** quando estiver enfeitiçado e com a visão enevoada, basta usar este elixir e toda a bagunça desaparecerá.
+
 **Fim da jornada**
 
 Parabéns, bravo aventureiro digital! Você percorreu um caminho repleto de mistérios e desafios, aprendendo a se orientar com pwd, descobrindo tesouros com ls, navegando com cd, construindo seu próprio mundo com mkdir, revelando segredos com cat, duplicando itens mágicos com cp, reorganizando seu reino com mv, e superando inimigos digitais com rm. Com essas habilidades, você está pronto para explorar e dominar qualquer sistema operacional que encontrar em seu caminho.
