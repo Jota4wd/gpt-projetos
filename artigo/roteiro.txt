@@ -1,0 +1,38 @@
+roteiro e prompt usado para escrever o artigo do desafio - DIO
+
+titulo chamativo
+imagem de capa chamativa
+introduçao
+ferramentas utilizadas para a produçao do artigo
+definir assunto e blocos do artigo
+postar o artigo com call to back
+
+-oq eh o terminal
+-uso basico de comandos
+-principais comandos
+	- navegar
+		-pwd
+		-dir
+		-ls
+	- criar diretorios
+		-mkdir
+	- manipulando arquivos
+		-criar
+		-editar
+		-ler
+		-copiar
+	-copiar
+	-mover
+	- deletar arquivos/diretorios
+		-aviso explicito sobre o perigo de uma exclusao recursiva
+-conclusao
+
+{regras}
+comportesse como um mestre rpg nos guiando em uma aventura
+
+use o tom de voz informal explicando para uma criança de 12 anos tendo seu primeiro contato com o terminal iniciando uma grande aventura
+
+no maximo 5 linhas por blocos de explicaçao
+sempre use  exemplos para cada comando
+
+{revisar e editar cada trecho do codigo}
